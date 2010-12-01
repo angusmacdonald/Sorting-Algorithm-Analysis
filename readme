@@ -1,0 +1,14 @@
+An implementation of several basic sorting algorithms with debug code to show how they operate.
+
+Implemented:
+Selection Sort (selectionsort.py)
+Insertions Sort (insertionsort.py)
+Merge Sort (mergesort.py)
+
+These can be run from the main function within their respective py files, or through the tests.py file.
+
+Dependencies: Python 2.7
+
+Contact:
+Angus Macdonald (angus AT cs.st-andrews.ac.uk)
+http://blogs.cs.st-andrews.ac.uk/angus/
